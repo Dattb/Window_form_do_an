@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\bin\Debug\Control_DAT.exe.config
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\bin\Debug\Control_DAT.exe
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\bin\Debug\Control_DAT.pdb
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.Properties.Resources.resources
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.exe
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.pdb
+C:\Users\DELL\source\repos\Control_DAT\Control_DAT\obj\Debug\Control_DAT.DatUTC.resources
